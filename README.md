@@ -2,7 +2,7 @@
 
 Documentation sur mon installation domotique
 
-# le contexte
+## le contexte
 
 Je suis ingénieur IT de formation, et propriétaire d'une maison que j'ai largement rénovée.
 
@@ -22,25 +22,25 @@ Je suis un profesionnel dans le domaine informatique, mais chacun son métier, j
 
 La documentation est en cours de rédaction ; les parties documentées présenteront un hyperlien dans le sommaire ci-dessous. 
 
-# Le coeur IT de la maison: le réseau informatique
+### Le coeur IT de la maison: le réseau informatique
 
 * câbler la maison avec du câble réseau
 * armoire réseau, box internet, switch, serveurs et autres petits trucs électroniques
 * les caméras
 
-# Les travaux pour rénover et domotiser la maison
+### Les travaux pour rénover et domotiser la maison
 
 * cabler un neutre pour les modules domotiques des lumières
 * câbler une prise réseau dans une gaine existante.
 * motoriser des volets roulants
 
-# Le coeur de la domotique: serveur domotique, zwave, zigbee...
+### Le coeur de la domotique: serveur domotique, zwave, zigbee...
 
 * serveur domotique, clefs ZWave, Zigbee (Zigate)
 * Liste des périphériques zwave
 * téléinformation (consommation EDF)
 
-# Domotisations annexes et DIY.
+### Domotisations annexes et DIY.
 
-* domotisation de portes de garage électriques
+* domotisation de deux portes de garage
 * sirènes DIY, domotisées à base d'arduino.
